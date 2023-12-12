@@ -11,9 +11,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "diskriminant", "diskriminan
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task2", "task2\task2.csproj", "{D90898B7-1FC2-42C3-B46B-4A3CDE160EF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task3", "task3\task3.csproj", "{68526EC7-1111-4AF6-9325-9971379AEE25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task3", "task3\task3.csproj", "{68526EC7-1111-4AF6-9325-9971379AEE25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task3(2)", "task3(2)\task3(2).csproj", "{CC487BDC-E453-46C3-9886-4FDA2D3B7740}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task3(2)", "task3(2)\task3(2).csproj", "{CC487BDC-E453-46C3-9886-4FDA2D3B7740}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abramiyan", "abramiyan\abramiyan.csproj", "{3CB0F12A-B902-4D56-A2E0-293250E1C8A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +39,10 @@ Global
 		{CC487BDC-E453-46C3-9886-4FDA2D3B7740}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC487BDC-E453-46C3-9886-4FDA2D3B7740}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC487BDC-E453-46C3-9886-4FDA2D3B7740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB0F12A-B902-4D56-A2E0-293250E1C8A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB0F12A-B902-4D56-A2E0-293250E1C8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB0F12A-B902-4D56-A2E0-293250E1C8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB0F12A-B902-4D56-A2E0-293250E1C8A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
