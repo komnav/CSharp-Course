@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task3", "task3\task3.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task3(2)", "task3(2)\task3(2).csproj", "{CC487BDC-E453-46C3-9886-4FDA2D3B7740}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abramiyan", "abramiyan\abramiyan.csproj", "{3CB0F12A-B902-4D56-A2E0-293250E1C8A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "abramiyan", "abramiyan\abramiyan.csproj", "{3CB0F12A-B902-4D56-A2E0-293250E1C8A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abramiyan2", "abramiyan2\abramiyan2.csproj", "{267BE3BB-D088-440D-92AD-DBFB88D5DF6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +45,10 @@ Global
 		{3CB0F12A-B902-4D56-A2E0-293250E1C8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CB0F12A-B902-4D56-A2E0-293250E1C8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CB0F12A-B902-4D56-A2E0-293250E1C8A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267BE3BB-D088-440D-92AD-DBFB88D5DF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267BE3BB-D088-440D-92AD-DBFB88D5DF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267BE3BB-D088-440D-92AD-DBFB88D5DF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267BE3BB-D088-440D-92AD-DBFB88D5DF6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
