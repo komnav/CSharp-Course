@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task10c#", "task10c#\task10
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fibonachi", "fibonachi\fibonachi.csproj", "{18DAFC9A-1578-44FE-BCA0-208142A62F51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abramiyan33,34,35,36,37", "abramiyan33,34,35,36,37\abramiyan33,34,35,36,37.csproj", "{3142EF33-D90A-4374-9E5F-7FDCA0781EFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "abramiyan33,34,35,36,37", "abramiyan33,34,35,36,37\abramiyan33,34,35,36,37.csproj", "{3142EF33-D90A-4374-9E5F-7FDCA0781EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "int", "int\int.csproj", "{E89FED50-EFDB-4DEA-9752-F55428883063}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +93,10 @@ Global
 		{3142EF33-D90A-4374-9E5F-7FDCA0781EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3142EF33-D90A-4374-9E5F-7FDCA0781EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3142EF33-D90A-4374-9E5F-7FDCA0781EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E89FED50-EFDB-4DEA-9752-F55428883063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E89FED50-EFDB-4DEA-9752-F55428883063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E89FED50-EFDB-4DEA-9752-F55428883063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E89FED50-EFDB-4DEA-9752-F55428883063}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
