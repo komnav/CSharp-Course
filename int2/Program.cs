@@ -65,7 +65,7 @@
 
 Console.WriteLine("a?");//20
 var a = int.Parse(Console.ReadLine());
-double s = a /3600 ;
+double s = a/60/60;
 Console.WriteLine(s);
 
 
